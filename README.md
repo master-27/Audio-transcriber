@@ -125,7 +125,7 @@ This project is **MIT Licensed**.
 ---
 
 ## 👨‍💻 Author & Credits
-- **Developed by:** [Your Name](https://github.com/YOUR_USERNAME)
+- **Developed by:** [Mohit Kumar Sharma](https://github.com/master-27)
 - **AssemblyAI API** - Speech-to-Text
 - **Google Gemini API** - Summarization
 
@@ -133,7 +133,7 @@ This project is **MIT Licensed**.
 
 ## ⭐ Contributions & Support
 💡 Feel free to **fork this repo** and submit a **pull request**!  
-📧 For any queries, contact: **your.email@example.com**
+📧 For any queries, contact: **mohitkandwalkaku@example.com**
 
 ---
 🚀 **Now, you're all set to build & deploy!**  
